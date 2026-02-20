@@ -74,15 +74,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manikantav6264&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=manikantav6264&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
+
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MANIKANTAv6264/MANIKANTAv6264/output/snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/MANIKANTAv6264/MANIKANTAv6264/output/snake.svg">
-</picture>
 
 ###
 
