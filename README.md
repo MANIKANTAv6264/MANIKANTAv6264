@@ -1,8 +1,8 @@
-<h1 align="center">Vanapalli Manikanta 👋</h1>
-<h3 align="center">AI Developer | Full-Stack Engineer | System Builder</h3>
+<h1 align="center">Vanapalli Manikanta</h1>
+
 
 <p align="center">
-  🚀 Building Intelligent Systems • 🤖 AI Agents • 🌐 Scalable Web Apps
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Building+Autonomous+AI+Agents;Computer+Vision+%7C+Real-Time+Systems;Turning+Code+Into+Intelligence" />
 </p>
 
 <p align="center">
